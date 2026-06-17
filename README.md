@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Flipkart Pricing Intelligence Dashboard
-
+live demo : https://flipkart-pricing-intelligence-dashboard-82c5dyir3t6c6fzayaph58.streamlit.app/
 ## Overview
 
 An interactive Streamlit dashboard for analyzing Flipkart product pricing, discount strategies, category performance, and brand trends.
@@ -29,4 +29,4 @@ pip install -r requirements.txt
 streamlit run app.py
 =======
 # flipkart-pricing-intelligence-dashboard
->>>>>>> 0026f8d7df842a709214f2b1023c17865e52f4df
+
