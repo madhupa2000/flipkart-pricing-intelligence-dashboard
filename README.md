@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Flipkart Pricing Intelligence Dashboard
 live demo : https://flipkart-pricing-intelligence-dashboard-82c5dyir3t6c6fzayaph58.streamlit.app/
 ## Overview
